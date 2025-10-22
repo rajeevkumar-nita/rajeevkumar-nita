@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=rajeevkumar-nita&label=Profile%20views&color=0e75b6&style=flat" alt="rajeevkumar-nita" />
 </p>
 
-- 💼 Incoming Software Engineer @ GlobalLogic (A Hitachi Group Company)  
+- 💼 Software Engineer @ GlobalLogic (A Hitachi Group Company)  
 - 💻 Passionate about Software Development  
 - 🤝 Looking to collaborate on exciting tech **Full Stack Projects**  
 - 📫 Email: **rajeev.nita2025@gmail.com**  

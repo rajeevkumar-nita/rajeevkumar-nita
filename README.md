@@ -45,7 +45,8 @@
 
 ### 💻 Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,cpp,git,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,cpp,git,tailwind,java,androidstudio,kotlin" />
+
 
 ---
 

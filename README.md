@@ -49,6 +49,11 @@
 
 
 ---
+### 🐍 My Contributions Snake!
+
+![GitHub contribution snake](https://github.com/rajeevkumar-nita/rajeevkumar-nita/blob/main/dist/github-snake.svg)
+
+---
 
 ### 📌 Featured Projects
 

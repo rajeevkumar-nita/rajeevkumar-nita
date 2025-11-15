@@ -47,12 +47,11 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,cpp,git,tailwind,java,androidstudio,kotlin" />
 
-
 ---
 
-### 🐍 My Contributions Snake!
+### 🐍 My Contributions Snake (GIF)!
 
-![GitHub contribution snake](https://raw.githubusercontent.com/rajeevkumar-nita/rajeevkumar-nita/main/dist/github-snake.svg)
+![GitHub contribution snake GIF](https://raw.githubusercontent.com/rajeevkumar-nita/rajeevkumar-nita/main/dist/github-snake.gif)
 
 ---
 

@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Har din raat 12 baje run hoga
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,13 +14,15 @@ jobs:
         id: snake_generate
         with:
           github_user_name: ${{ github.repository_owner }}
+          # OUTPUTS ki location change ki gayi hai:
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            github-contribution-grid-snake/github-snake.svg
+            github-contribution-grid-snake/github-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: output
-          build_dir: dist
+          # build_dir ko naye location par set kiya gaya hai:
+          build_dir: github-contribution-grid-snake 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

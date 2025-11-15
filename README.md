@@ -49,9 +49,11 @@
 
 ---
 
-### 🐍 My Contributions Snake (GIF)!
+---
 
-![GitHub contribution snake GIF](https://raw.githubusercontent.com/rajeevkumar-nita/rajeevkumar-nita/main/dist/github-snake.gif)
+### 🐍 Watch My Contributions Get Eaten! 🐍
+
+![GitHub contribution snake GIF](https://raw.githubusercontent.com/rajeevkumar-nita/rajeevkumar-nita/output/dist/github-snake.gif)
 
 ---
 

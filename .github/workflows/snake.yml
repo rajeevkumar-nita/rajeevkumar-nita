@@ -24,4 +24,4 @@ jobs:
           branch: main
           default_author: github_actions
           message: '🐍 Snake animation updated'
-          add: 'dist/github-snake.svg'
+          add: 'dist/github-snake.gif'

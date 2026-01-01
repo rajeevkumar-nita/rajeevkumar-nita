@@ -57,19 +57,85 @@
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
-#### 🔗 [Chatify](https://github.com/rajeevkumar-nita/Chatify)
-> 💬 Real-time chat app with instant messaging, user auth, and Socket.IO  
-> ⚙️ React.js, Node.js, Express, MongoDB, Socket.IO  
+### 🔗 LifeLens — AI-Powered Health Context App
+🧠 An early-stage AI application focused on building health context over time using visual inputs.  
+⚙️ **Tech Stack:** React (TypeScript), API integration, AI-based image analysis  
 
-#### 🔗 [PasteAPP](https://github.com/rajeevkumar-nita/PasteAPP)
-> 📝 Frontend-only pastebin clone with full CRUD & copy functionality using localStorage for storing pastes as key-value pairs  
-> ⚙️ React.js, Tailwind CSS, Redux, React Router  
+**✨ Key Features**
+- Image-based health context analysis  
+- Plain-language explanations (non-diagnostic)  
+- Severity as an escalation signal, not a diagnosis  
+- Clean and minimal UX focused on clarity and safety  
 
-#### 🔗 [Password Generator](https://github.com/rajeevkumar-nita/password-generator)
-> 🔐 Secure password generator with customization and client-side validation  
-> ⚙️ HTML, CSS, JavaScript  
+**🚀 Planned Enhancements**
+- Multi-image context tracking over time  
+- User health timeline and history  
+- Backend integration for user profiles and logs  
+- AI + human-judgment handoff workflows  
+
+🔗 **GitHub:** https://github.com/rajeevkumar-nita/LifeLens  
+
+---
+
+### 🔗 Personal Portfolio Website
+🌐 A personal developer portfolio showcasing projects, skills, and professional journey.  
+⚙️ **Tech Stack:** HTML, CSS, JavaScript, GitHub Pages  
+
+**✨ Key Features**
+- Clean and responsive design  
+- Project showcase with GitHub integration  
+- Fast and lightweight static deployment  
+
+**🚀 Planned Enhancements**
+- Dark mode toggle  
+- Blog / learning-in-public section  
+- Project filtering by tech stack  
+- Visitor analytics integration  
+
+🔗 **GitHub:** https://github.com/rajeevkumar-nita/rajeevkumar-nita.github.io  
+
+---
+
+### 🔗 HeartSync — Couple Interaction Game
+❤️ A fun and interactive game designed to strengthen emotional bonding between couples.  
+⚙️ **Tech Stack:** JavaScript, HTML, CSS  
+
+**✨ Key Features**
+- Question-based couple interaction gameplay  
+- Emotion-driven prompts and scenarios  
+- Lightweight, responsive UI  
+- Engagement-focused design  
+
+**🚀 Planned Enhancements**
+- Real-time multiplayer mode  
+- Compatibility insights and scoring system  
+- Daily challenges for couples  
+- Mobile-first UI redesign  
+
+🔗 **GitHub:** https://github.com/rajeevkumar-nita/couple-game  
+
+---
+
+### 🔗 Chatify — Real-Time Chat Application
+💬 A full-stack real-time chat platform with secure authentication and live messaging.  
+⚙️ **Tech Stack:** React.js, Node.js, Express, MongoDB, Socket.IO  
+
+**✨ Key Features**
+- Real-time one-to-one and group chat using Socket.IO  
+- JWT-based user authentication  
+- Online/offline user presence  
+- Message timestamps and read receipts  
+- Scalable backend architecture  
+
+**🚀 Planned Enhancements**
+- Typing indicators and message reactions  
+- Media sharing (images & files)  
+- Chat search and message export  
+- Push notifications  
+
+🔗 **GitHub:** https://github.com/rajeevkumar-nita/Chatify  
 
 ---
 

@@ -49,14 +49,6 @@
 
 ---
 
----
-
-### 🐍 Watch My Contributions Get Eaten! 🐍
-
-![GitHub contribution snake GIF](https://raw.githubusercontent.com/rajeevkumar-nita/rajeevkumar-nita/output/dist/github-snake.gif)
-
----
-
 ## 📌 Featured Projects
 
 ### 🔗 LifeLens — AI-Powered Health Context App

@@ -75,7 +75,7 @@
 - Backend integration for user profiles and logs  
 - AI + human-judgment handoff workflows  
 
-🔗 **GitHub:** life-lens-iota.vercel.app  
+🔗 **GitHub:** https://life-lens-iota.vercel.app/
 
 ---
 

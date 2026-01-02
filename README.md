@@ -1,7 +1,12 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rajeevkumar-nita.github.io)
 
-<h1 align="center">Hi 👋, I'm Rajeev Kumar</h1>
-<h3 align="center"> 🎓 B.Tech Graduate (2025) | Software Developer | MERN Stack | Competitive Programmer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Rajeev+Kumar;Software+Engineer;Full-Stack+Developer+(MERN);Competitive+Programmer" />
+</h1>
+
+<h3 align="center">
+Software Engineer | MERN Stack | Competitive Programmer
+</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -19,14 +24,16 @@
 
 ### 🌐 Connect with me
 
-#### 🔹 Professional & Social
+🔹 Professional & Social  
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajeev-portfolio-delta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeevkumar-nita)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rajeevbuilds)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajeev_kmr77)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeev.nita2025@gmail.com)
 
-#### 🔹 Competitive Programming
+🔹 Competitive Programming  
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Winter_Soldier_2002/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Lucifer204)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rjalgo)

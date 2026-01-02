@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rajeevkumar-nita.github.io)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Rajeev+Kumar;Software+Engineer;Full-Stack+Developer+(MERN);Competitive+Programmer" />
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> , I'm Rajeev Kumar
 </h1>
 
 <h3 align="center">

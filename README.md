@@ -8,10 +8,18 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 Software Engineer | MERN Stack | Competitive Programmer
 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img
+  align="right"
+  alt="Coding"
+  width="400"
+  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+/>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rajeevkumar-nita&label=Profile%20views&color=0e75b6&style=flat" alt="rajeevkumar-nita" />
+  <img
+    src="https://komarev.com/ghpvc/?username=rajeevkumar-nita&label=Profile%20views&color=0e75b6&style=flat"
+    alt="rajeevkumar-nita"
+  />
 </p>
 
 - 💼 Software Engineer @ GlobalLogic (A Hitachi Group Company)  

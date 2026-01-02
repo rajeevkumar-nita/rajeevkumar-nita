@@ -35,87 +35,66 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,cpp,git,tailwind,java,androidstudio,kotlin" />
 
 ---
-
 ## 📌 Featured Projects
 
-### 🔗 LifeLens — AI-Powered Health Context App
-🧠 An early-stage AI application focused on building health context over time using visual inputs.  
-⚙️ **Tech Stack:** React (TypeScript), API integration, AI-based image analysis  
-
-**✨ Key Features**
-- Image-based health context analysis  
-- Plain-language explanations (non-diagnostic)  
-- Severity as an escalation signal, not a diagnosis  
-- Clean and minimal UX focused on clarity and safety  
-
-**🚀 Planned Enhancements**
-- Multi-image context tracking over time  
-- User health timeline and history  
-- Backend integration for user profiles and logs  
-- AI + human-judgment handoff workflows  
-
-🔗 **GitHub:** https://life-lens-iota.vercel.app/
-
----
-
-### 🔗 Personal Portfolio Website
-🌐 A personal developer portfolio showcasing projects, skills, and professional journey.  
-⚙️ **Tech Stack:** HTML, CSS, JavaScript, GitHub Pages  
-
-**✨ Key Features**
-- Clean and responsive design  
-- Project showcase with GitHub integration  
-- Fast and lightweight static deployment  
-
-**🚀 Planned Enhancements**
-- Dark mode toggle  
-- Blog / learning-in-public section  
-- Project filtering by tech stack  
-- Visitor analytics integration  
-
-🔗 **GitHub:** https://github.com/rajeevkumar-nita/rajeevkumar-nita.github.io  
-
----
-
-### 🔗 HeartSync — Couple Interaction Game
-❤️ A fun and interactive game designed to strengthen emotional bonding between couples.  
-⚙️ **Tech Stack:** JavaScript, HTML, CSS  
-
-**✨ Key Features**
-- Question-based couple interaction gameplay  
-- Emotion-driven prompts and scenarios  
-- Lightweight, responsive UI  
-- Engagement-focused design  
-
-**🚀 Planned Enhancements**
-- Real-time multiplayer mode  
-- Compatibility insights and scoring system  
-- Daily challenges for couples  
-- Mobile-first UI redesign  
-
-🔗 **GitHub:** https://github.com/rajeevkumar-nita/couple-game  
-
----
-
-### 🔗 Chatify — Real-Time Chat Application
-💬 A full-stack real-time chat platform with secure authentication and live messaging.  
-⚙️ **Tech Stack:** React.js, Node.js, Express, MongoDB, Socket.IO  
-
-**✨ Key Features**
-- Real-time one-to-one and group chat using Socket.IO  
-- JWT-based user authentication  
-- Online/offline user presence  
-- Message timestamps and read receipts  
-- Scalable backend architecture  
-
-**🚀 Planned Enhancements**
-- Typing indicators and message reactions  
-- Media sharing (images & files)  
-- Chat search and message export  
-- Push notifications  
-
-🔗 **GitHub:** https://github.com/rajeevkumar-nita/Chatify  
-
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 LifeLens — AI Health Context</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      </p>
+      <p>🧠 Building health context over time using visual AI analysis.</p>
+      <ul>
+        <li>Image-based context analysis</li>
+        <li>Minimal UX for safety & clarity</li>
+      </ul>
+      <a href="https://life-lens-iota.vercel.app/"><b>Live Demo 🌐</b></a> | <a href="https://github.com/rajeevkumar-nita"><b>Repo 🛠️</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 Chatify — Real-Time Chat</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      </p>
+      <p>💬 Full-stack platform with secure JWT auth and live messaging.</p>
+      <ul>
+        <li>Real-time group/solo chats</li>
+        <li>Online/Offline presence</li>
+      </ul>
+      <a href="https://github.com/rajeevkumar-nita/Chatify"><b>View Project 🚀</b></a>
+    </td>
+  </tr>
+  <tr>
+   <td width="50%" valign="top">
+      <h3>❤️ HeartSync — Couple Game</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      </p>
+      <p>🎮 Strengthening bonding through emotion-driven interactive prompts.</p>
+      <ul>
+        <li>Question-based gameplay</li>
+        <li>Responsive engagement design</li>
+      </ul>
+      <a href="https://github.com/rajeevkumar-nita/couple-game"><b>Play Game 🕹️</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Developer Portfolio</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" />
+      </p>
+      <p>🎨 Personal showcase built with lightweight static deployment.</p>
+      <ul>
+        <li>Project showcase integration</li>
+        <li>Clean responsive design</li>
+      </ul>
+      <a href="https://rajeev-portfolio-delta.vercel.app/"><b>Visit Website ✨</b></a>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📊 GitHub Stats

@@ -119,10 +119,10 @@ Software Engineer | MERN Stack | Competitive Programmer
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeevkumar-nita&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevkumar-nita&layout=compact&theme=dark" width="48%" />
+  <img src="https://github-readme-stats-six-rebel.vercel.app/api?username=rajeevkumar-nita&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats-six-rebel.vercel.app/api/top-langs/?username=rajeevkumar-nita&layout=compact&theme=radical&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevkumar-nita&theme=dark" width="96%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevkumar-nita&theme=radical&border_radius=10" width="96%" />
 </p>

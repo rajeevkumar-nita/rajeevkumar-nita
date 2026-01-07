@@ -69,7 +69,7 @@ Software Engineer | MERN Stack | Competitive Programmer
         <li>Image-based context analysis</li>
         <li>Minimal UX for safety & clarity</li>
       </ul>
-      <a href="https://life-lens-iota.vercel.app/"><b>Live Demo 🌐</b></a> | <a href="https://github.com/rajeevkumar-nita"><b>Repo 🛠️</b></a>
+      <a href="https://life-lens-iota.vercel.app/"><b>Live Demo 🌐</b></a> | <a href="https://github.com/rajeevkumar-nita/LifeLens"><b>Repo 🛠️</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>💬 Chatify — Real-Time Chat</h3>

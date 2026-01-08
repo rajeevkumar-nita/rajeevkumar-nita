@@ -11,7 +11,7 @@ Software Engineer | MERN Stack | Competitive Programmer
 <img
   align="right"
   alt="Coding"
-  width="360"
+  width="350"
   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 />
 

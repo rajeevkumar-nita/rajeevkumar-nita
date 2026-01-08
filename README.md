@@ -26,7 +26,6 @@ Software Engineer | MERN Stack | Competitive Programmer
 - 💻 Passionate about Software Development  
 - 🤝 Looking to collaborate on exciting tech **Full Stack Projects**  
 - 📫 Email: **rajeev.nita2025@gmail.com**  
-- 📞 Contact: **+91 8102753070**
 
 ---
 

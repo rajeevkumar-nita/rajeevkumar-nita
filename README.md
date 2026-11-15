@@ -22,7 +22,7 @@ Software Engineer | MERN Stack | Competitive Programmer
   />
 </p>
 
-- 💼 Software Engineer @ GlobalLogic (A Hitachi Group Company)  
+- 💼 Software Engineer @ Hitachi Digital  
 - 💻 Passionate about Software Development  
 - 🤝 Looking to collaborate on exciting tech **Full Stack Projects**  
 - 📫 Email: **rajeev.nita2025@gmail.com**  

@@ -76,7 +76,7 @@ Software Engineer | MERN Stack | Competitive Programmer
         <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
       </p>
-      <p>💬 Full-stack platform with secure JWT auth and live messaging.</p>
+      <p>💬 Full-stack platform with secure JWT auth and live messaging</p>
       <ul>
         <li>Real-time group/solo chats</li>
         <li>Online/Offline presence</li>

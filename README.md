@@ -71,7 +71,7 @@ Software Engineer | MERN Stack | Competitive Programmer
       <a href="https://life-lens-iota.vercel.app/"><b>Live Demo 🌐</b></a> | <a href="https://github.com/rajeevkumar-nita/LifeLens"><b>Repo 🛠️</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>💬 Chatify — Real-Time Chat</h3>
+      <h3>💬 Chatify — Real Time Chat</h3>
       <p align="left">
         <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />

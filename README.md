@@ -81,7 +81,7 @@ Software Engineer | MERN Stack | Competitive Programmer
         <li>Real-time group/solo chats</li>
         <li>Online/Offline presence</li>
       </ul>
-      <a href="https://github.com/rajeevkumar-nita/Chatify"><b>View Project 🚀</b></a>
+      <a href="https://github.com/rajeevkumar-nita/Chatify"><b>Live Demo</b></a>
     </td>
   </tr>
   <tr>

@@ -96,7 +96,7 @@ Software Engineer | MERN Stack | Competitive Programmer
         <li>Question-based gameplay</li>
         <li>Responsive engagement design</li>
       </ul>
-      <a href="https://sync-hearts-mevg.vercel.app/"><b>Live Demo🕹️</b></a>
+      <a href="https://sync-hearts-mevg.vercel.app/"><b>Live Demo</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Developer Portfolio</h3>

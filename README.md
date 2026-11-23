@@ -109,7 +109,7 @@ Software Engineer | MERN Stack | Competitive Programmer
         <li>Project showcase integration</li>
         <li>Clean responsive design</li>
       </ul>
-      <a href="https://rajeev-portfolio-delta.vercel.app/"><b>Visit Website </b></a>
+      <a href="https://rajeev-portfolio-delta.vercel.app/"><b>Visit Website. </b></a>
     </td>
   </tr>
 </table>
